@@ -1,0 +1,4 @@
+storePassword=kist1999
+keyPassword=kist1999
+keyAlias=key
+storeFile=./key.jks
